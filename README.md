@@ -1,0 +1,2 @@
+# wanted-bot
+discord bot
